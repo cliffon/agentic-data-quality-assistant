@@ -1,0 +1,100 @@
+[
+ {
+  "row_index": 0,
+  "issue_type": "missing_part_number",
+  "severity": "medium",
+  "confidence": 0.95,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 0,
+  "issue_type": "weak_description",
+  "severity": "medium",
+  "confidence": 0.85,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 1,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.8,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 1,
+  "issue_type": "category_mismatch_candidate",
+  "severity": "low",
+  "confidence": 0.7,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 2,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.8,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 3,
+  "issue_type": "normalized_description_suggestion",
+  "severity": "low",
+  "confidence": 0.6,
+  "source": "ai_assisted_simulated"
+ },
+ {
+  "row_index": 4,
+  "issue_type": "unsupported_unit_of_measure",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 4,
+  "issue_type": "possible_duplicate",
+  "severity": "low",
+  "confidence": 0.55,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 5,
+  "issue_type": "missing_part_number",
+  "severity": "medium",
+  "confidence": 0.95,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 5,
+  "issue_type": "possible_duplicate",
+  "severity": "low",
+  "confidence": 0.55,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 5,
+  "issue_type": "missing_unit_of_measure",
+  "severity": "low",
+  "confidence": 0.9,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 7,
+  "issue_type": "duplicate_item_id",
+  "severity": "high",
+  "confidence": 0.99,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 8,
+  "issue_type": "duplicate_item_id",
+  "severity": "high",
+  "confidence": 0.99,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 9,
+  "issue_type": "malformed_row",
+  "severity": "high",
+  "confidence": 1,
+  "source": "deterministic_rule"
+ }
+]

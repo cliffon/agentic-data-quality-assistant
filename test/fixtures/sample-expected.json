@@ -1,0 +1,23 @@
+[
+ {
+  "row_index": 0,
+  "issue_type": "missing_part_number",
+  "severity": "medium",
+  "confidence": 0.95,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 0,
+  "issue_type": "weak_description",
+  "severity": "medium",
+  "confidence": 0.85,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 1,
+  "issue_type": "category_mismatch_candidate",
+  "severity": "low",
+  "confidence": 0.7,
+  "source": "heuristic"
+ }
+]

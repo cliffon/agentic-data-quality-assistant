@@ -1,0 +1,240 @@
+[
+ {
+  "row_index": 1,
+  "issue_type": "category_mismatch_candidate",
+  "severity": "low",
+  "confidence": 0.7,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 1,
+  "issue_type": "missing_part_number",
+  "severity": "medium",
+  "confidence": 0.95,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 1,
+  "issue_type": "weak_description",
+  "severity": "medium",
+  "confidence": 0.85,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 5,
+  "issue_type": "category_mismatch_candidate",
+  "severity": "low",
+  "confidence": 0.7,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 7,
+  "issue_type": "weak_description",
+  "severity": "medium",
+  "confidence": 0.85,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 8,
+  "issue_type": "missing_part_number",
+  "severity": "medium",
+  "confidence": 0.95,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 10,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.8,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 11,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.8,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 12,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 13,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 14,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.8,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 15,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.8,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 15,
+  "issue_type": "unsupported_unit_of_measure",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 18,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 19,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 22,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.8,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 23,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.8,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 23,
+  "issue_type": "unsupported_unit_of_measure",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 24,
+  "issue_type": "duplicate_item_id",
+  "severity": "high",
+  "confidence": 0.99,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 25,
+  "issue_type": "duplicate_item_id",
+  "severity": "high",
+  "confidence": 0.99,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 27,
+  "issue_type": "unsupported_unit_of_measure",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 29,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 30,
+  "issue_type": "unsupported_unit_of_measure",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 32,
+  "issue_type": "category_mismatch_candidate",
+  "severity": "low",
+  "confidence": 0.7,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 36,
+  "issue_type": "missing_part_number",
+  "severity": "medium",
+  "confidence": 0.95,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 37,
+  "issue_type": "weak_description",
+  "severity": "medium",
+  "confidence": 0.85,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 38,
+  "issue_type": "unsupported_unit_of_measure",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 40,
+  "issue_type": "malformed_row",
+  "severity": "high",
+  "confidence": 1,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 41,
+  "issue_type": "malformed_row",
+  "severity": "high",
+  "confidence": 1,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 43,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.8,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 44,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.8,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 45,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "heuristic"
+ },
+ {
+  "row_index": 47,
+  "issue_type": "unsupported_unit_of_measure",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "deterministic_rule"
+ },
+ {
+  "row_index": 48,
+  "issue_type": "possible_duplicate",
+  "severity": "medium",
+  "confidence": 0.9,
+  "source": "heuristic"
+ }
+]

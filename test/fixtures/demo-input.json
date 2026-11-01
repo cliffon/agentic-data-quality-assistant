@@ -1,0 +1,12 @@
+[
+  { "item_id": "1001", "item_description": "bearing", "manufacturer": "SKF", "manufacturer_part_number": "", "category": "Mechanical", "unit_of_measure": "EA", "source_system": "ERP-A" },
+  { "item_id": "1002", "item_description": "SKF Bearing 6205 ZZ", "manufacturer": "SKF", "manufacturer_part_number": "6205-ZZ", "category": "Electrical", "unit_of_measure": "EA", "source_system": "ERP-B" },
+  { "item_id": "1003", "item_description": "Deep Groove Ball Bearing 6205 ZZ", "manufacturer": "skf ", "manufacturer_part_number": "6205 zz", "category": "Mechanical", "unit_of_measure": "Each", "source_system": "ERP-C" },
+  { "item_id": "2001", "item_description": "brg  6205 2RS  skf", "manufacturer": "SKF", "manufacturer_part_number": "6205-2RS", "category": "Mechanical", "unit_of_measure": "EA", "source_system": "ERP-A" },
+  { "item_id": "3001", "item_description": "Hex Bolt M8x40 Zinc", "manufacturer": "Bossard", "manufacturer_part_number": "BN-123", "category": "Mechanical", "unit_of_measure": "XYZ", "source_system": "ERP-A" },
+  { "item_id": "3002", "item_description": "Hex Bolt M8x40 Zinc", "manufacturer": "Bossard", "manufacturer_part_number": "", "category": "Mechanical", "unit_of_measure": "", "source_system": "ERP-B" },
+  { "item_id": "4001", "item_description": "Resistor 10k Ohm 1/4W", "manufacturer": "Yageo", "manufacturer_part_number": "CFR-25JB", "category": "Electrical", "unit_of_measure": "EA", "source_system": "ERP-A" },
+  { "item_id": "5001", "item_description": "Flat Washer M8 Stainless", "manufacturer": "Bossard", "manufacturer_part_number": "W-M8-SS", "category": "Mechanical", "unit_of_measure": "EA", "source_system": "ERP-A" },
+  { "item_id": "5001", "item_description": "Cable Gland PG11 Nylon", "manufacturer": "Lapp", "manufacturer_part_number": "52019000", "category": "Electrical", "unit_of_measure": "EA", "source_system": "ERP-A" },
+  { "item_id": "6001", "item_description": "   ", "manufacturer": "SKF" }
+]

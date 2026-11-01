@@ -1,0 +1,5 @@
+item_id,item_description,manufacturer,manufacturer_part_number,category,unit_of_measure,source_system
+1001,bearing,SKF,,Mechanical,EA,ERP-A
+1002,"SKF Bearing 6205 ZZ, sealed",SKF,6205-ZZ,Electrical,EA,ERP-B
+1003,Hex bolt M8x40,,,Mechanical,XYZ,ERP-A
+1004,short
