@@ -1,0 +1,26 @@
+{
+  "name": "item-dq-assistant",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "demo": "tsx scripts/demo.ts"
+  },
+  "dependencies": {
+    "csv-parse": "^7.0.3",
+    "fastify": "^5.12.7",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  }
+}
